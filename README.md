@@ -1,2 +1,13 @@
-# MOVIE-BOT
-this a bot to recommend movies
+# **MOVIE-BOT**
+This bot recommend movies on discord.
+## **CONTRIBUTOR**
+1. Tanishq Tanwar
+2. Shiva Tripathi
+3. Srishti Sharma
+4. Aditya Binukumar
+## **INSTRUCTIONS FOR USE**
+1. Create a bot on "https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications"
+2. Copy its token and give suitable permision
+3. Type !movies-genre
+4. Enter token in the code provided with quotes
+5. Use replit.com to run the bot in cloud without installing discord module
