@@ -1,10 +1,6 @@
 # **MOVIE-BOT**
 This bot recommend movies on discord.
-## **CONTRIBUTOR**
-1. Tanishq Tanwar
-2. Shiva Tripathi
-3. Srishti Sharma
-4. Aditya Binukumar
+
 ## **INSTRUCTIONS FOR USE**
 1. Create a bot on "https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications"
 2. Copy its token and give suitable permision
